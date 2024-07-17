@@ -14,9 +14,9 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","Zindagi_hai_tere_nal")
+OWNER_USERNAME = getenv("OWNER_USERNAME","MrDevilFather")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME","Kiyansh3_bot")
+BOT_USERNAME = getenv("BOT_USERNAME","DevilMusicOPbot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME")
 # ---------------------------------------------------------
@@ -68,7 +68,7 @@ GIT_TOKEN = getenv(
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/DevilMusicSupport")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/DevilMusicSupport)
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/DevilMusicSupport")
 # groupz-------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
